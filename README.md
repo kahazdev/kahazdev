@@ -1,16 +1,99 @@
-## Hi there 👋
+# 🧑🏻‍💻 Thiago Rodrigues de Carvalho
 
-<!--
-**kahazdev/kahazdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de ADS`**
 
-Here are some ideas to get you started:
+Me chamo Thiago, tenho 20 anos e sou da grande São Paulo. Atualmente, estou cursando Analise e Desenvolvimento de Sistemas na Unicesumar. Sou apaixonado por tecnologia e gosto de aprender cada vez mais, como hobbie curso Desenvovimento Web e no futuro pretendo cursar algo relacionado a Back-End.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <!-- Badge para estrelas no GitHub -->
+    <a href="https://github.com/kahazdev?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/kahazdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <!-- Badge para seguidores no GitHub -->
+    <a href="https://github.com/kahazdev?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/kahazdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <!-- Badge para LinkedIn -->
+    <a href="https://www.linkedin.com/in/thiago-rodrigues-8170862a8/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Visite meu perfil no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias que estou aprendendo
+
+<!-- Ícone do HTML -->
+<img 
+    align="left" 
+    alt="HTML" 
+    title="HTML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"          
+/>
+
+<!-- Ícone do CSS -->
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
+/>
+
+<!-- Ícone do JS -->
+<img 
+    align="left" 
+    alt="JS" 
+    title="JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<!-- Ícone do GIT -->
+<img 
+    align="left" 
+    alt="GIT" 
+    title="GIT"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"
+/>
+<br/>
+<br/>
+
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=kahazdev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahazdev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
