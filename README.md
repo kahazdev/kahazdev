@@ -62,7 +62,7 @@ Me chamo Thiago, tenho 20 anos e sou da grande São Paulo. Atualmente, estou cur
     title="JS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    src="https://images.icon-icons.com/112/PNG/512/python_18894.png"
 />
 
 <!-- Ícone do GIT -->
