@@ -92,7 +92,7 @@ Me chamo Thiago, tenho 20 anos e sou da grande São Paulo. Atualmente, estou cur
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="250" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahazdev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
