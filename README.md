@@ -22,7 +22,7 @@ Me chamo Thiago, tenho 20 anos e sou da grande São Paulo. Atualmente, estou cur
         />
     </a>
     <!-- Badge para LinkedIn -->
-    <a href="https://www.linkedin.com/in/thiago-rodrigues-8170862a8/" target="_blank">
+    <a href="https://www.linkedin.com/in/thiago-rodrigues-de-carvalho-8170862a8/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Visite meu perfil no LinkedIn" 
