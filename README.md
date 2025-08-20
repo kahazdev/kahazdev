@@ -2,7 +2,10 @@
 
 **`Estudante de ADS`**
 
-Me chamo Thiago, tenho 20 anos e sou da grande São Paulo. Atualmente, estou cursando Analise e Desenvolvimento de Sistemas na Unicesumar. Sou apaixonado por tecnologia e gosto de aprender cada vez mais, como hobbie curso Desenvovimento Web e no futuro pretendo cursar algo relacionado a Back-End.
+Me chamo Thiago, tenho 20 anos e sou da grande São Paulo.
+Cursando Análise e Desenvolvimento de Sistemas na Unicesumar e estou estudando Python.
+Eu sou apaixonado por tecnologia.
+Busco me aprofundar em diferentes áreas do desenvolvimento de software.
 
 <p align="left">
     <!-- Badge para estrelas no GitHub -->
