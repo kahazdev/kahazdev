@@ -54,7 +54,7 @@ Busco me aprofundar em diferentes áreas do desenvolvimento de software.
     title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://image.pngaaa.com/262/4152262-middle.png"
+    src="https://static.djangoproject.com/img/logos/django-logo-negative.png"
 />
 
 <!-- Ícone do HTML -->
