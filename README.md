@@ -38,6 +38,25 @@ Busco me aprofundar em diferentes áreas do desenvolvimento de software.
 
 ### 🤖 Linguagens e Tecnologias que estou aprendendo
 
+<!-- Ícone do JS -->
+<img 
+    align="left" 
+    alt="JS" 
+    title="JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://images.icon-icons.com/112/PNG/512/python_18894.png"
+/>
+
+<img 
+    align="left" 
+    alt="GIT" 
+    title="GIT"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://images.icon-icons.com/2415/PNG/512/django_original_logo_icon_146559.png"
+/>
+
 <!-- Ícone do HTML -->
 <img 
     align="left" 
@@ -58,16 +77,6 @@ Busco me aprofundar em diferentes áreas do desenvolvimento de software.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
 />
 
-<!-- Ícone do JS -->
-<img 
-    align="left" 
-    alt="JS" 
-    title="JS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://images.icon-icons.com/112/PNG/512/python_18894.png"
-/>
-
 <!-- Ícone do GIT -->
 <img 
     align="left" 
@@ -77,6 +86,9 @@ Busco me aprofundar em diferentes áreas do desenvolvimento de software.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"
 />
+
+
+
 <br/>
 <br/>
 
