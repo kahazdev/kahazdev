@@ -89,14 +89,14 @@ Busco me aprofundar em diferentes áreas do desenvolvimento de software.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kahazdev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=kahazdev" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="250" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahazdev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api?username=kahazdev" 
   />
 
 </p>
