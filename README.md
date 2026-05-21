@@ -81,22 +81,3 @@ Busco me aprofundar em diferentes áreas do desenvolvimento de software.
 <br/>
 
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kahazdev" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="250" 
-      src="https://github-readme-stats.vercel.app/api?username=kahazdev" 
-  />
-
-</p>
