@@ -41,8 +41,8 @@ Busco me aprofundar em diferentes áreas do desenvolvimento de software.
 <!-- Ícone do JS -->
 <img 
     align="left" 
-    alt="JS" 
-    title="JS"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://images.icon-icons.com/112/PNG/512/python_18894.png"
@@ -50,11 +50,11 @@ Busco me aprofundar em diferentes áreas do desenvolvimento de software.
 
 <img 
     align="left" 
-    alt="GIT" 
-    title="GIT"
+    alt="Django" 
+    title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://images.icon-icons.com/2415/PNG/512/django_original_logo_icon_146559.png"
+    src="https://image.pngaaa.com/262/4152262-middle.png"
 />
 
 <!-- Ícone do HTML -->
