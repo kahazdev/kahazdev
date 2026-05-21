@@ -52,7 +52,7 @@ Busco me aprofundar em diferentes áreas do desenvolvimento de software.
     align="left" 
     alt="Django" 
     title="Django"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png"
 />
