@@ -1,95 +1,63 @@
-# 🧑🏻‍💻 Thiago Rodrigues de Carvalho
+# Olá, eu sou Thiago Rodrigues! 👋
 
-**`Estudante de ADS`**
-
-Me chamo Thiago, tenho 20 anos e sou da grande São Paulo.
-Cursando Análise e Desenvolvimento de Sistemas na Unicesumar e estou estudando Python.
-Eu sou apaixonado por tecnologia.
-Busco me aprofundar em diferentes áreas do desenvolvimento de software.
-
-<p align="left">
-    <!-- Badge para estrelas no GitHub -->
-    <a href="https://github.com/kahazdev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/kahazdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <!-- Badge para seguidores no GitHub -->
-    <a href="https://github.com/kahazdev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/kahazdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <!-- Badge para LinkedIn -->
-    <a href="https://www.linkedin.com/in/thiago-rodrigues-de-carvalho-8170862a8/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Visite meu perfil no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-</p>
+Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor com foco em **Back-end utilizando Python**. Tenho interesse em desenvolvimento de software, automação de processos, análise de dados e Inteligência Artificial, buscando criar soluções que transformem tarefas complexas em processos mais eficientes.
 
 ---
 
-### 🤖 Linguagens e Tecnologias que estou aprendendo
+## 💻 Sobre mim
 
-<!-- Ícone do JS -->
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://images.icon-icons.com/112/PNG/512/python_18894.png"
-/>
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**.
+- 🚀 Em busca da primeira oportunidade profissional na área de tecnologia.
+- 🐍 Foco em desenvolvimento Back-end com **Python e Django**.
+- 🤖 Interesse em **Inteligência Artificial Generativa**, automação de processos e integração de APIs.
+- 📊 Experiência em projetos de análise e processamento de dados utilizando Python e Pandas.
+- 🌱 Aprendendo continuamente sobre desenvolvimento web, banco de dados, cloud computing e boas práticas de software.
 
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="45px" 
-    style="padding-right: 10px;" 
-    src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png"
-/>
+---
 
-<!-- Ícone do HTML -->
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"          
-/>
+## 🛠️ Tecnologias e Ferramentas
 
-<!-- Ícone do CSS -->
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
-/>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Back-end** | Python, Django |
+| **Banco de Dados** | MySQL, SQLite, SQL |
+| **Dados e IA** | Pandas, Google Gemini API, IA Generativa |
+| **APIs** | REST APIs, Integração de Serviços |
+| **Cloud** | Google Cloud Platform (BigQuery, Cloud Storage, Compute Engine, Cloud Functions) |
+| **Ferramentas** | Git, GitHub, Docker, Excel, SAP |
 
-<!-- Ícone do GIT -->
-<img 
-    align="left" 
-    alt="GIT" 
-    title="GIT"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"
-/>
+---
 
+## 🚀 Projetos em Destaque
 
+### 📊 Analisador Inteligente de Vendas com IA
+Aplicação desenvolvida em Python para automatizar a análise de dados de vendas a partir de planilhas Excel. Utiliza Pandas para processamento de dados e integração com a API Google Gemini para geração de relatórios executivos automatizados e insights para tomada de decisão.
 
-<br/>
-<br/>
+### 📇 Agenda Web com Django
+Sistema web desenvolvido com Django que permite gerenciamento de contatos através de operações CRUD, autenticação de usuários, controle de permissões e persistência de dados.
 
+### 🎓 Sistema Escolar CRUD
+Projeto desenvolvido com Python, MySQL e Docker aplicando conceitos de Programação Orientada a Objetos, modelagem de dados e operações CRUD.
 
+---
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Web com Django
+- APIs REST
+- Banco de Dados SQL
+- Docker
+- Cloud Computing
+- Inteligência Artificial Generativa
+- Automação de Processos
+
+---
+
+## 📫 Conecte-se comigo
+
+- 💼 LinkedIn: https://linkedin.com/in/SEU-LINK
+- 📧 E-mail: SEUEMAIL@EMAIL.COM
+- 🐙 GitHub: https://github.com/SEU-USUARIO
+
+---
+⭐ Sempre aberto a aprender novas tecnologias, colaborar em projetos e compartilhar conhecimento.
