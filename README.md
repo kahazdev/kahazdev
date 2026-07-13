@@ -55,9 +55,9 @@ Projeto desenvolvido com Python, MySQL e Docker aplicando conceitos de Programa�
 
 ## 📫 Conecte-se comigo
 
-- 💼 LinkedIn: https://linkedin.com/in/SEU-LINK
-- 📧 E-mail: SEUEMAIL@EMAIL.COM
-- 🐙 GitHub: https://github.com/SEU-USUARIO
+- 💼 LinkedIn: https://www.linkedin.com/in/thiago-rodrigues-python/
+- 📧 E-mail: thiagorodrigues20045@gmail.com
+- 🐙 GitHub: https://github.com/kahazdev
 
 ---
 ⭐ Sempre aberto a aprender novas tecnologias, colaborar em projetos e compartilhar conhecimento.
